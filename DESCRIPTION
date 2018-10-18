@@ -1,11 +1,10 @@
 Package: RIFN
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Acceso al IFN3 con R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Rafael Menéndez
+Maintainer:  Rafael Menéndez <rafaelmenmell@gmail.com>
+Description: Acceso y manipulación básica de los datos del IFN3 en R
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
