@@ -276,11 +276,23 @@ Source: CRAN
 Version: 0.8
 Hash: 9ba7fe76dcaf96966c449527ca04bb78
 
+Package: rvest
+Source: CRAN
+Version: 0.3.2
+Hash: c69f7526520bad66fd2111ebe8b1364b
+Requires: httr, magrittr, selectr, xml2
+
 Package: scales
 Source: CRAN
 Version: 1.0.0
 Hash: dd78d3c916916877f6d319b27534795e
 Requires: R6, RColorBrewer, Rcpp, labeling, munsell, viridisLite
+
+Package: selectr
+Source: CRAN
+Version: 0.4-1
+Hash: b12802c11e35dec9d16a74d30ed0f3ed
+Requires: R6, stringr
 
 Package: stringi
 Source: CRAN
@@ -325,6 +337,12 @@ Package: withr
 Source: CRAN
 Version: 2.1.2
 Hash: d534108bcd5f34ec73e9eb523751ba20
+
+Package: xml2
+Source: CRAN
+Version: 1.2.0
+Hash: f6170ae6632040144a2379e6d714e251
+Requires: Rcpp
 
 Package: yaml
 Source: CRAN
